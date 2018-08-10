@@ -1,0 +1,16 @@
+.category-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  .container-title {
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+  }
+
+  .container-content {
+    display: flex;
+    justify-content: center;
+  }
+}
